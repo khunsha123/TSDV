@@ -1,2 +1,2 @@
-# TSDV
- Time Series Data Visualizer (TSDV) is a tool for Interactive Visualization of High Dimensional Time Series data.
+# Time Series Data Visualizer (TSDV) 
+Created Time Series Data Visualizer (TSDV) to effectively visualize high dimensional time series data. Integrated multiple dimensionality reduction methods for enhanced data representation. TSDV offers dynamic timestamp visualization, highlighting Cluster Centers for improved insights. Additionally, it provides various dimensionality reduction quality metrics for assessment.
